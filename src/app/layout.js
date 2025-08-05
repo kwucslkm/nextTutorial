@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Control } from "../../Control";
+import { Control } from "./Control";
 import "./globals.css";
 
 export const metadata = {
